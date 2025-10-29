@@ -1,0 +1,20 @@
+// Animutyam Problem.
+//Highest sum of subarray of length 3 in below array.
+//[5,9,1,8,7]
+import java.util.*;
+class Main {
+    public static void main(String[] args) {
+        
+        int max=0;
+        int [] arr={5,9,1,8,7};
+        int n=arr.length;
+        for(int i=0;i<=n/2;i++){
+            int sum=0;, 
+            sum+=arr[i]+arr[i+1]+arr[i+2];
+            if(sum>max){
+                max=sum;
+            }
+        }
+        System.out.println(max);
+    }
+}
