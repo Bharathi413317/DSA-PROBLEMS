@@ -1,0 +1,21 @@
+
+//1876. Substrings of Size Three with Distinct Characters
+class Solution {
+    public int countGoodSubstrings(String s) {
+         int n=s.length();
+        int count=0;
+        int sl=3;
+        int j=0;
+        for(int i=0;i<n-sl+1;i++){
+            j=i+sl-1;
+            HashSet<Character>hs=new HashSet<>();
+            for(int k=i;k<=j;k++){
+                // HashSet<Character>hs=new HashSet<>();
+                char ch=s.charAt(k);
+hs.add(ch);
+                  }if(hs.size()==3){
+                count+=1;
+            }
+        }return count;
+    }
+}
