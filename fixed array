@@ -1,19 +1,20 @@
-class Solution {
-    public int numOfSubarrays(int[] arr, int k, int threshold) {
-        int n=arr.length;
-        int l=0;
-        int count=0;
-        int sum=0;
-        for(int r=0;r<n;r++){
+//fixed size sliding window
 
+class Main {
+    public static void main(String[] args) {
+        int k=3;
+        int [] arr={1,5,7,2,9};
+        int n=arr.length;
+        int max=0;
+        int sum=0;
+        int l=0;
+        for(int r=0;r<n;r++){
             sum+=arr[r];
             if(r-l+1==k){
-                if(sum/k>=threshold){
-                    count+=1;
-                }sum-=arr[l];
+                if(sum>max) max=sum;
+                sum-=arr[l];     
                 l++;
             }
-        }return count;
-        
+        }System.out.println(max);
     }
 }
