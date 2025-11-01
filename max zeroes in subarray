@@ -1,0 +1,19 @@
+// 
+import java.util.*;
+class Main {
+    public static void main(String[] args) {
+        Scanner in=new Scanner(System.in);
+        int[] arr={1,1,0,1,0,0,0};
+        int k=in.nextInt();
+        int n=arr.length;
+        int l=0;
+        int count=0,ans=0;
+        for(int r=0;r<n;r++){
+            if(arr[r]==0) count+=1;
+            while(count>k){
+                if(arr[l]==0) count-=1;
+                l++;
+            }ans=Math.max(ans,r-l+1);
+        }System.out.println(ans);
+    }
+}
