@@ -1,0 +1,25 @@
+class Solution {
+    public int maxConsecutiveAnswers(String arr, int k) {
+        int n=arr.length();
+       
+          int l1=0;
+          int l2=0;
+          int ans1=0;
+          int ans2=0;
+          int count=0;
+          for(int r=0;r<n;r++){
+              if(arr.charAt(r)=='T') count+=1;
+              while(count>k){
+                  if(arr.charAt(l1)=='T') count-=1;
+                  l1++;
+              }ans1=Math.max(ans1,r-l1+1);
+          }count=0;
+          for(int r=0;r<n;r++){
+              if(arr.charAt(r)=='F') count+=1;
+              while(count>k){
+                  if(arr.charAt(l2)=='F') count-=1;
+                  l2++;
+              }ans2=Math.max(ans2,r-l2+1);
+          }return Math.max(ans1,ans2);
+    }
+}
