@@ -1,0 +1,21 @@
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+import java.util.*;
+class Main {
+    
+    public static boolean fun(int[]arra,int[] arrb){
+        for(int i=0;i<arra.length;i++){
+            if(arra[i]!=arrb[i]){
+                return false;
+            }
+        }return true;
+    } 
+    public static void main(String[] args) {
+        Scanner in=new Scanner(System.in);
+        int arra[]={1,2,3,4,5};
+        int arrb[]={1,2,3,4,5};
+        boolean a=fun(arra,arrb);
+        System.out.println(a);
+        
+    }
+}
