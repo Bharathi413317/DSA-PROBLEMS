@@ -1,0 +1,32 @@
+
+// Use this editor to write, compile and run your Java code online
+import java.util.*;
+class Main {
+    public static  boolean fun(HashMap<Integer,Integer>hma,HashMap<Integer,Integer>hmb){
+        if(hma.size()!=hmb.size()){
+              return false;
+        }for(int key:hma.keySet()){
+            if(!hmb.containsKey(key)){
+                return false;
+            }
+            int a=hma.get(key);
+            int b=hmb.get(key);
+            if(a!=b){
+                return false;
+            }
+        }return true;
+          
+             
+        
+    }
+    public static void main(String[] args) {
+       HashMap<Integer,Integer>hma=new HashMap<>();
+       hma.put(1,0);
+       hma.put(5,900);
+        HashMap<Integer,Integer>hmb=new HashMap<>();
+       hmb.put(1,0);
+       hmb.put(5,900);
+       
+       System.out.println(fun(hma,hmb));
+    }
+}
