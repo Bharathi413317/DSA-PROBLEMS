@@ -1,0 +1,45 @@
+class Solution {
+    public static boolean anagram(HashMap<Character,Integer>hma,HashMap<Character,Integer>hmb){
+        if(hma.size()!=hmb.size()){
+            return false;
+        }for(char v: hma.keySet()){
+                 if(!hmb.containsKey(v)){
+                    return false;
+                 }int a=hma.get(v);
+                 int b=hmb.get(v);
+                 if(a!=b){
+                    return false;
+                 }
+
+        }return true;
+    }
+    public List<Integer> findAnagrams(String s, String p) {
+        List<Integer>arr=new ArrayList<>();
+        int l=0;
+        HashMap<Character,Integer>hma=new HashMap<>();
+        HashMap<Character,Integer>hmb=new HashMap<>();
+        for(int i=0;i<p.length();i++){
+            char ch=p.charAt(i);
+            hmb.put(ch,hmb.getOrDefault(ch,0)+1);
+
+        }for(int r=0;r<s.length();r++){
+            char ch=s.charAt(r);
+            hma.put(ch,hma.getOrDefault(ch,0)+1);
+            if(r-l==p.length()){
+                char ch1=s.charAt(l);
+                hma.put(ch1,hma.getOrDefault(ch1,0)-1);
+                if(hma.get(ch1)==0){
+                    hma.remove(ch1);}
+                    l++;
+                
+            }boolean valid=anagram(hma,hmb);
+            if(valid==true){
+                arr.add(l);
+
+            }
+
+        }return arr;
+
+        
+    }
+}
