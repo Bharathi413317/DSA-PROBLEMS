@@ -1,0 +1,22 @@
+class Solution {
+    public int atmost(int []arr,int k){
+        int n=arr.length;
+        int l=0;
+        int count=0;
+        int ans=0;
+        for(int r=0;r<n;r++){
+            if(arr[r]%2!=0){
+                count+=1;
+            }while(count>k){
+                if(arr[l]%2!=0){
+                    count-=1;
+                }l++;
+               
+            } ans+=r-l+1;
+        }return ans;
+    }
+    public int numberOfSubarrays(int[] nums, int k) {
+        int ans=atmost(nums,k)-atmost(nums,k-1);
+        return ans;
+    } 
+}
