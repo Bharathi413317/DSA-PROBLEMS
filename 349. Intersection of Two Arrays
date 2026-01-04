@@ -1,0 +1,38 @@
+class Solution {
+    public int[] intersection(int[] nums1, int[] nums2) {
+        HashMap<Integer, Integer> hm1 = new HashMap<>();
+        HashMap<Integer, Integer> hm2 = new HashMap<>();
+
+        // fill hm1
+        for (int i = 0; i < nums1.length; i++) {
+            int val = nums1[i];
+            hm1.put(val, hm1.getOrDefault(val, 0) + 1);
+        }
+
+        // fill hm2
+        for (int i = 0; i < nums2.length; i++) {
+            int val = nums2[i];
+            hm2.put(val, hm2.getOrDefault(val, 0) + 1);
+        }
+
+        // count intersection size
+        int count = 0;
+        for (Integer key : hm1.keySet()) {
+            if (hm2.containsKey(key)) {
+                count++;
+            }
+        }
+
+        int[] k = new int[count];
+        int i = 0;
+
+        // store intersection
+        for (Integer key : hm1.keySet()) {
+            if (hm2.containsKey(key)) {
+                k[i++] = key;
+            }
+        }
+
+        return k;
+    }
+}
