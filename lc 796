@@ -1,0 +1,18 @@
+class Solution {
+    public boolean rotateString(String s, String goal) {
+        if(s.length()!=goal.length()){class Solution {
+    public boolean rotateString(String s, String goal) {
+        // Lengths must be equal
+        if (s.length() != goal.length()) {
+            return false;
+        }
+        
+        // Check if goal is a substring of s+s
+        return (s + s).contains(goal);
+    }
+}
+
+            return false;
+        }return (s+s).contains(goal);
+    }
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
