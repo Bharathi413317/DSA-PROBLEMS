@@ -1,0 +1,20 @@
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+
+class Main {
+    public static String fun(){
+        StringBuilder sb=new StringBuilder("vi");
+        return sb.toString();
+    }
+    public static void main(String[] args) {
+        StringBuilder nameb=new StringBuilder("abc");
+        // nameb.append("vignesh");
+        // System.out.println(nameb);
+        // int n=nameb.length();
+    //     //     System.out.println(n);
+    //     String s=nameb.toString();
+    //     System.out.println(s);
+    // }
+    System.out.println(fun());
+}
+}
