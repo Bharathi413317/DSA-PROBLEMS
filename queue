@@ -1,0 +1,19 @@
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+import java.util.*;
+class Main {
+    public static void main(String[] args) {
+        ArrayList<String>lst=new ArrayList<>();
+        lst.add("Vignesh");
+        lst.add("Animuthyam");
+        lst.remove(0);  //o(n)
+        System.out.println(lst);f
+        Queue<String>q=new LinkedList<>();
+         q.add("Vignesh");
+        q.add("Animuthyam");
+        //q.remove("Animuthyam");
+        q.poll();    //o(1)
+        System.out.println(q);
+        
+    }
+}
