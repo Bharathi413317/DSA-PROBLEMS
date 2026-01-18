@@ -1,0 +1,51 @@
+// // Online Java Compiler
+// // Use this editor to write, compile and run your Java code online
+// import java.util.*;
+// class Main {
+//     public static void main(String[] args) {
+//         Deque<String>dq=new LinkedList<>();
+//         dq.addFirst("900");
+//         dq.addFirst("100");
+//          dq.addFirst("400");
+//          System.out.println(dq.peekFirst());
+//          dq.pollLast();
+//          System.out.println(dq.size());
+//          System.out.println(dq.isEmpty());
+         
+        
+//     }
+// }
+import java.util.*;
+class Student{
+    int age;
+    String flag;
+    String name;
+    Student(String f,int a,String n){
+        this.age=a;
+        this.name=n;
+        this.flag=f;
+    }
+}
+ class Main {
+    public static void main(String[] args) {
+        String []name={"bharathi","mani","nihal","mohith"};
+        int []age={1,2,3,4};
+        String []flag={"red","orange","green","yellow"};
+        Deque<Student>dq=new LinkedList<>();
+        for(int i=0;i<name.length;i++){
+            Student temp=new Student(name[i],age[i],flag[i]);
+            dq.addLast(temp);
+        }
+        int i=0;
+        while(!dq.isEmpty()){
+            Student temp;
+            if(i%2==0){
+                temp=dq.pollFirst();
+            }else
+            {
+                temp=dq.pollLast();
+            }System.out.println(temp.name+" "+temp.age+" "+temp.flag);
+            i++;
+        }
+    }
+ }
