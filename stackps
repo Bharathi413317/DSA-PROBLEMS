@@ -1,0 +1,27 @@
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+import java.util.*;
+class Cricketer{
+    String name;
+    int runs;
+    String Nickname;
+    Cricketer(String name,int runs,String Nickname){
+        this.name=name;
+        this.runs=runs;
+        this.Nickname=Nickname;
+    }
+}
+class Main {
+    public static void main(String[] args) {
+        String []name={"vignesh","dinesh","satish"};
+        int [] runs={1,2,3};
+        String []Nickname={"chinnu","tommy","bannu"};
+        Stack<Cricketer>st=new Stack<>();
+        for(int i=0;i<name.length;i++){
+            st.push(new Cricketer(name[i],runs[i],Nickname[i]));
+        }
+         Cricketer temp= st.pop();
+         System.out.println(temp.name+" "+temp.runs+"    "+temp.Nickname);
+        
+    }
+}
