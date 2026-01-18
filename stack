@@ -1,0 +1,25 @@
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+import java.util.*;
+class Macha{
+    String name;
+    int age;
+    Macha(String n,int a){
+        this.name=n;
+        this.age=a;
+    }
+}
+class Main {
+    public static void main(String[] args) {
+        Macha m1=new Macha("amma",50000);
+        Macha m2=new Macha("Nanna",50000);
+        Stack<Macha>st=new Stack<>();
+        st.push(m1);
+        st.push(m2);
+        System.out.println(st.size());
+        Macha temp=st.pop();
+        st.pop();
+        System.out.println(temp.age +" "+temp.name);
+        System.out.println(st.size());
+    }
+}
