@@ -1,0 +1,29 @@
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+import java.util.*;
+class Main {
+    public static void main(String[] args) {
+       PriorityQueue<Student>pq=new PriorityQueue<>((a,b)-> {
+           if(a.height == b.height){
+               return a.age-b.age;
+           }else{
+               return a.height-b.height;
+           }
+       });
+       Student s1=new Student("fsbvhj",7879);
+        Student s2=new Student("huihiurt",9645);
+    pq.add(s1);
+    pq.add(s2);
+       Student temp=pq.poll();
+       System.out.println(temp.name);
+       }
+}
+
+class Student{
+    String name;
+    int age;
+    Student(String n,int a){
+        this.name=n;
+        this.age=a;
+    }
+}
