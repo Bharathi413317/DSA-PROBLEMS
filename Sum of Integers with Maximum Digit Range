@@ -1,0 +1,24 @@
+class Solution {
+    int f(int num){
+        int max = Integer.MIN_VALUE;
+        int min = Integer.MAX_VALUE;
+        while(num>0){
+            int dig = num%10;
+            max = Math.max(max,dig);
+            min = Math.min(min,dig);
+            num /= 10;
+        }
+        return max-min;
+    }
+    public int maxDigitRange(int[] nums) {
+        int max = Integer.MIN_VALUE;
+        for(int num:nums){
+            max = Math.max(max,f(num));
+        }
+        int sum = 0;
+        for(int num:nums){
+            if(f(num)==max) sum += num;
+        }
+        return sum;
+    }
+}
