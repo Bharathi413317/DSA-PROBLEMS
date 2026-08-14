@@ -23,6 +23,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 ## String
 |  |
 | ------- |
@@ -68,4 +70,8 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
