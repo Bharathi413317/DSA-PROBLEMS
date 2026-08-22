@@ -105,6 +105,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0002-add-two-numbers) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
