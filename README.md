@@ -56,6 +56,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0002-add-two-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Recursion
 |  |
 | ------- |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0152-maximum-product-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 <!---LeetCode Topics End-->
