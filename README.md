@@ -112,6 +112,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0009-palindrome-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Recursion
