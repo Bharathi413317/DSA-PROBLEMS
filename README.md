@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0152-maximum-product-subarray) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -140,11 +141,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [4026-maximum-gap-between-stations](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4026-maximum-gap-between-stations) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4026-maximum-gap-between-stations](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4026-maximum-gap-between-stations) |
