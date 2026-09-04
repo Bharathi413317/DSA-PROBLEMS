@@ -44,6 +44,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1609-even-odd-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1609-even-odd-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1609-even-odd-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1609-even-odd-tree) |
 ## String
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1609-even-odd-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1609-even-odd-tree) |
 ## Design
 |  |
 | ------- |
