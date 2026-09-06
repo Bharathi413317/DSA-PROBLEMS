@@ -46,6 +46,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0814-binary-tree-pruning) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1609-even-odd-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1609-even-odd-tree) |
@@ -62,6 +63,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0814-binary-tree-pruning) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1609-even-odd-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1609-even-odd-tree) |
@@ -84,6 +86,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0547-number-of-provinces](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0669-trim-a-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0814-binary-tree-pruning) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
 |  |
