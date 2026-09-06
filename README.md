@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0152-maximum-product-subarray) |
+| [0654-maximum-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0654-maximum-binary-tree) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0654-maximum-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0450-delete-node-in-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -66,6 +69,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0450-delete-node-in-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -116,6 +120,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0654-maximum-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0654-maximum-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
@@ -144,6 +149,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0654-maximum-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Math
 |  |
@@ -199,4 +205,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0547-number-of-provinces) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
