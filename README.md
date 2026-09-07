@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0005-longest-palindromic-substring) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
@@ -171,6 +172,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0005-longest-palindromic-substring) |
 | [0096-unique-binary-search-trees](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0152-maximum-product-subarray) |
 ## Enumeration
@@ -181,6 +183,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [4026-maximum-gap-between-stations](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4026-maximum-gap-between-stations) |
@@ -209,4 +212,8 @@
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0654-maximum-binary-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
