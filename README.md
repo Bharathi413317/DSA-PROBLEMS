@@ -159,6 +159,7 @@
 | [0009-palindrome-number](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0009-palindrome-number) |
 | [0096-unique-binary-search-trees](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0096-unique-binary-search-trees) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Recursion
