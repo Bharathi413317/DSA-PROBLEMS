@@ -14,6 +14,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3903-smallest-stable-index-i) |
@@ -29,6 +30,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -169,6 +171,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0002-add-two-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -182,6 +185,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 | [4024-nearest-available-drone](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4024-nearest-available-drone) |
 ## Two Pointers
