@@ -1,34 +1,28 @@
 class Solution {
-    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        int originalColor = image[sr][sc];
-        
-        // If the starting pixel is already the target color, return immediately
-        if (originalColor == color) {
-            return image;
+    public void dfs(int r,int c,int [][]ans,int[][] image,int newcolor,int []delrow,int []delcol,int inicolor){
+        ans[r][c]=newcolor;
+        int n=image.length;
+        int m=image[0].length;
+        for(int i=0;i<4;i++){
+            int nrow=r+delrow[i];
+            int ncol=c+delcol[i];
+            if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && image[nrow][ncol]==inicolor && ans[nrow][ncol]!=newcolor){
+                dfs(nrow,ncol,ans,image,newcolor,delrow,delcol,inicolor);
+            }
+
         }
-        
-        dfs(image, sr, sc, originalColor, color);
-        return image;
     }
-    
-    private void dfs(int[][] image, int r, int c, int originalColor, int newColor) {
-        // Boundary check
-        if (r < 0 || r >= image.length || c < 0 || c >= image[0].length) {
-            return;
+    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        int inicolor=image[sr][sc];
+        int [][]ans=new int [image.length][image[0].length];
+        for(int i=0;i<image.length;i++){
+            for(int j=0;j<image[0].length;j++){
+                ans[i][j]=image[i][j];
+            }
         }
-        
-        // If current pixel is not the original color, stop
-        if (image[r][c] != originalColor) {
-            return;
-        }
-        
-        // Change color
-        image[r][c] = newColor;
-        
-        // Visit 4-directionally adjacent pixels
-        dfs(image, r + 1, c, originalColor, newColor);
-        dfs(image, r - 1, c, originalColor, newColor);
-        dfs(image, r, c + 1, originalColor, newColor);
-        dfs(image, r, c - 1, originalColor, newColor);
+        int [] delrow={-1,0,1,0};
+        int [] delcol={0,1,0,-1};
+        dfs(sr,sc,ans,image,color,delrow,delcol,inicolor);
+        return ans;
     }
 }
