@@ -11,6 +11,7 @@
 | [0654-maximum-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0654-maximum-binary-tree) |
 | [0733-flood-fill](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0733-flood-fill) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -119,6 +120,7 @@
 | [0547-number-of-provinces](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0733-flood-fill) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0994-rotting-oranges) |
 | [1609-even-odd-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1609-even-odd-tree) |
 ## Design
 |  |
@@ -236,4 +238,5 @@
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
