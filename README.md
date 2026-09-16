@@ -247,4 +247,8 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0095-unique-binary-search-trees-ii) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
