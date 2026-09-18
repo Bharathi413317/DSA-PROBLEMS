@@ -252,5 +252,6 @@
 | ------- |
 | [0577-employee-bonus](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0595-big-countries) |
+| [0619-biggest-single-number](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
