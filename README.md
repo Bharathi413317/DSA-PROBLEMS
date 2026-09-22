@@ -267,6 +267,7 @@
 | [0619-biggest-single-number](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1068-product-sales-analysis-i) |
+| [1084-sales-analysis-iii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1084-sales-analysis-iii) |
 ## Topological Sort
 |  |
 | ------- |
