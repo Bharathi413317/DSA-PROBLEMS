@@ -16,6 +16,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1020-number-of-enclaves) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -121,6 +122,7 @@
 | [0733-flood-fill](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0733-flood-fill) |
 | [0814-binary-tree-pruning](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0872-leaf-similar-trees) |
+| [1020-number-of-enclaves](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -136,6 +138,7 @@
 | [0733-flood-fill](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0733-flood-fill) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1020-number-of-enclaves) |
 | [1609-even-odd-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1609-even-odd-tree) |
 ## Design
 |  |
@@ -243,6 +246,7 @@
 | [0130-surrounded-regions](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -264,6 +268,7 @@
 | [0542-01-matrix](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1020-number-of-enclaves) |
 ## Backtracking
 |  |
 | ------- |
