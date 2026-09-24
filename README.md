@@ -19,6 +19,7 @@
 | [1020-number-of-enclaves](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1020-number-of-enclaves) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
@@ -225,6 +226,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 | [4024-nearest-available-drone](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4024-nearest-available-drone) |
@@ -240,6 +242,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4026-maximum-gap-between-stations](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4026-maximum-gap-between-stations) |
 ## Prefix Sum
@@ -247,6 +250,7 @@
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3903-smallest-stable-index-i](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3904-smallest-stable-index-ii) |
 ## Union-Find
@@ -314,4 +318,8 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0785-is-graph-bipartite) |
+## Sorting
+|  |
+| ------- |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2171-removing-minimum-number-of-magic-beans) |
 <!---LeetCode Topics End-->
