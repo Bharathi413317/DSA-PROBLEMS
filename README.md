@@ -12,6 +12,7 @@
 | [0200-number-of-islands](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0542-01-matrix) |
 | [0654-maximum-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0654-maximum-binary-tree) |
+| [0713-subarray-product-less-than-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0733-flood-fill) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0994-rotting-oranges) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0713-subarray-product-less-than-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
@@ -187,6 +189,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0713-subarray-product-less-than-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Monotonic Stack
@@ -248,6 +251,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2171-removing-minimum-number-of-magic-beans) |
