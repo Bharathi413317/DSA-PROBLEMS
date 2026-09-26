@@ -5,12 +5,12 @@ class Solution {
             return;
            }
            l.add(root.val);
-           ts-=root.val;
-           if(root.left==null && root.right==null && ts==0){
+         
+           if(root.left==null && root.right==null && ts==root.val){
             lst.add(new ArrayList(l));
            }
-            dfs(root.left,ts,lst,l);
-            dfs(root.right,ts,lst,l);
+            dfs(root.left,ts-root.val,lst,l);
+            dfs(root.right,ts-root.val,lst,l);
             l.remove(l.size()-1);
            }
     
