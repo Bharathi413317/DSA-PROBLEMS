@@ -132,6 +132,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0872-leaf-similar-trees) |
 | [1020-number-of-enclaves](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1020-number-of-enclaves) |
@@ -149,6 +150,7 @@
 | [0547-number-of-provinces](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0802-find-eventual-safe-states) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1020-number-of-enclaves) |
@@ -277,6 +279,7 @@
 | [0207-course-schedule](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0802-find-eventual-safe-states) |
 ## Cartesian Tree
 |  |
 | ------- |
@@ -313,6 +316,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -333,4 +337,12 @@
 |  |
 | ------- |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2171-removing-minimum-number-of-magic-beans) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
