@@ -111,6 +111,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0654-maximum-binary-tree) |
@@ -239,6 +241,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0152-maximum-product-subarray) |
@@ -365,5 +368,6 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
