@@ -1,42 +1,41 @@
 class Pair{
     char ch;
-    int indx;
-    public Pair(char ch,int indx){
+    int ind;
+    Pair(char ch,int ind){
         this.ch=ch;
-        this.indx=indx;
+        this.ind=ind;
     }
 }
 class Solution {
     public int longestValidParentheses(String s) {
         Stack<Pair>st=new Stack<>();
-        int ans=0;
+         int ans=0;
         for(int i=0;i<s.length();i++){
-            char c=s.charAt(i);
-            if(c=='('){
-                st.push(new Pair(c,i));
-            }
-            else{
+            char ch=s.charAt(i);
+            if(ch=='('){
+                st.push(new Pair(ch,i));
+            }else{
                 if(!st.isEmpty() && st.peek().ch=='('){
                     st.pop();
                 }else{
-                    st.push(new Pair(c,i));
+                    st.push(new Pair(ch,i));
                 }
             }
-        }int beforind=s.length();
+        }
+       
+
+        int bi=s.length();
         if(st.isEmpty()) return s.length();
         while(!st.isEmpty()){
-            int k=st.peek().indx;
-            
-            ans=Math.max(ans,(beforind-k-1));
-            beforind=k;
+            int k=st.peek().ind;
+            ans=Math.max(ans,bi-k-1);
+            bi=k;
             st.pop();
-
+              
         }
-        if (beforind>0){
-            return Math.max(ans,beforind);
-        }
-        
-        return ans;
-
+        if(bi>0){
+            return Math.max(ans,bi);
+        }return ans;
+      
     }
 }
