@@ -25,7 +25,7 @@ class Solution {
             for(int i=0;i<word.length();i++){
                 StringBuilder sb1=new StringBuilder(sb);
                 for(int j=0;j<26;j++){
-                   sb1.setCharAt(i,(char)(j+(int)'a'));
+                   sb1.setCharAt(i,(char)(j+'a'));
                    if(hs.contains(sb1.toString())){
                     q.add(new Pair(sb1.toString(),steps+1));
                     hs.remove(sb1.toString());
