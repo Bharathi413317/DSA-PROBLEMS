@@ -14,7 +14,7 @@ class Solution {
         for(int i=0;i<wordList.size();i++){
             hs.add(wordList.get(i));
         }
-        hs.remove(beginWord);
+       // hs.remove(beginWord);
         while(!q.isEmpty()){
             String word=q.peek().word;
             int steps=q.peek().steps;
