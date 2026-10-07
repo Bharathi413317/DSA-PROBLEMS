@@ -116,6 +116,7 @@
 | [0127-word-ladder](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -158,6 +159,7 @@
 | [0207-course-schedule](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0301-remove-invalid-parentheses) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0542-01-matrix](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0547-number-of-provinces) |
@@ -330,6 +332,7 @@
 | [0022-generate-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0301-remove-invalid-parentheses) |
 ## Database
 |  |
 | ------- |
