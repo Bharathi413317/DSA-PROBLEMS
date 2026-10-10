@@ -21,6 +21,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
@@ -225,6 +226,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -287,6 +289,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4026-maximum-gap-between-stations](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4026-maximum-gap-between-stations) |
 ## Prefix Sum
@@ -375,6 +378,7 @@
 |  |
 | ------- |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
@@ -399,4 +403,8 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0127-word-ladder) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
