@@ -25,6 +25,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -176,6 +177,7 @@
 | [1020-number-of-enclaves](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1609-even-odd-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1609-even-odd-tree) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -321,6 +323,7 @@
 | [0547-number-of-provinces](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0802-find-eventual-safe-states) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Cartesian Tree
 |  |
 | ------- |
@@ -339,6 +342,7 @@
 | [0994-rotting-oranges](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1091-shortest-path-in-binary-matrix) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -412,4 +416,9 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
