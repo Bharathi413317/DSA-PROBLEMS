@@ -24,6 +24,7 @@
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -45,6 +46,7 @@
 | [0127-word-ladder](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0127-word-ladder) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
@@ -296,6 +298,7 @@
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4026-maximum-gap-between-stations](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4026-maximum-gap-between-stations) |
 ## Prefix Sum
@@ -421,4 +424,8 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
