@@ -36,7 +36,7 @@ class Solution {
             int r=p.row;
             int c=p.col;
             int wt=p.diff;
-            if(wt > dis[r][c]) continue;
+           
              if(r==m-1 && c==n-1){
                 ans=Math.min(ans,wt);
             }
