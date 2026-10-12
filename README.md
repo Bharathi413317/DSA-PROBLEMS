@@ -19,6 +19,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2171-removing-minimum-number-of-magic-beans) |
@@ -157,6 +158,7 @@
 | [0872-leaf-similar-trees](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0872-leaf-similar-trees) |
 | [1020-number-of-enclaves](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1631-path-with-minimum-effort](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -179,6 +181,7 @@
 | [1020-number-of-enclaves](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1609-even-odd-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1609-even-odd-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Design
 |  |
@@ -232,6 +235,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1631-path-with-minimum-effort](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Stack
@@ -318,6 +322,7 @@
 | [0547-number-of-provinces](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -345,6 +350,7 @@
 | [0994-rotting-oranges](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Backtracking
 |  |
@@ -418,6 +424,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1631-path-with-minimum-effort](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -428,4 +435,8 @@
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
