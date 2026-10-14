@@ -36,10 +36,11 @@ class Solution {
             adj.get(u).add(new Pair1(v,w));
         }
         TreeSet<Pair> ts = new TreeSet<>((a, b) -> {
-    if (a.stops != b.stops) {
-        return Integer.compare(a.stops, b.stops);
-    }
+   if (a.stops != b.stops)
+    return Integer.compare(a.stops, b.stops);
+if (a.weight != b.weight)
     return Integer.compare(a.weight, b.weight);
+return Integer.compare(a.node, b.node);
 });
       ts.add(new Pair(src,0,0));
       while(!ts.isEmpty()){
@@ -56,7 +57,7 @@ class Solution {
                int w=pr.weight;
                if(dist[nd]>w+weight && rk <= k) {
                    if(dist[node]!=Integer.MAX_VALUE){
-                    ts.remove(new Pair(nd,dist[node],rk));
+                    ts.remove(new Pair(nd,weight,rk));
                    }
                     dist[nd]=w+weight;
                     ts.add(new Pair(nd,dist[nd],rk+1));
