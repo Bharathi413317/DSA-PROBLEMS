@@ -255,6 +255,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0096-unique-binary-search-trees) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
@@ -307,6 +308,7 @@
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4026-maximum-gap-between-stations](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4026-maximum-gap-between-stations) |
