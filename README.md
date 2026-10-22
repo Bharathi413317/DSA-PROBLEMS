@@ -50,6 +50,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0127-word-ladder) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
@@ -265,6 +267,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0096-unique-binary-search-trees](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0096-unique-binary-search-trees) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
