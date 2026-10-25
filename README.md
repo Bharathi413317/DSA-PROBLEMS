@@ -21,6 +21,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -175,6 +176,7 @@
 | [0872-leaf-similar-trees](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0872-leaf-similar-trees) |
 | [1020-number-of-enclaves](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1254-number-of-closed-islands](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -199,6 +201,7 @@
 | [0994-rotting-oranges](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1609-even-odd-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -350,6 +353,7 @@
 | [0547-number-of-provinces](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -381,6 +385,7 @@
 | [0994-rotting-oranges](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Backtracking
