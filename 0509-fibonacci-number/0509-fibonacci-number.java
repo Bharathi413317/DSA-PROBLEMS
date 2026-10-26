@@ -1,12 +1,11 @@
 class Solution {
-
+    public int rec(int n,int []dp){
+       if(n==0 || n==1) return n;
+       if(dp[n]!=0) return dp[n];
+       return rec(n-1,dp)+rec(n-2,dp);
+    }
     public int fib(int n) {
-        int sum=0;
-        if (n==0 || n==1) return n;
-        return fib(n-1)+fib(n-2);
-
-
-
-       
-}
+        int []dp=new int[n+1];
+        return rec(n,dp);
+    }
 }
