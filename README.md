@@ -276,6 +276,7 @@
 | [0002-add-two-numbers](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
 | [2409-count-days-spent-together](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2409-count-days-spent-together) |
@@ -302,6 +303,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0152-maximum-product-subarray) |
@@ -504,5 +506,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
