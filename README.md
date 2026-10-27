@@ -16,6 +16,7 @@
 | [0654-maximum-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0654-maximum-binary-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0746-min-cost-climbing-stairs) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -310,6 +311,7 @@
 | [0509-fibonacci-number](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Enumeration
