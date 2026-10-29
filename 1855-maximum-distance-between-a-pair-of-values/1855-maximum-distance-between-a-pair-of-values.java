@@ -5,18 +5,16 @@ class Solution {
         int j=0;
         int i=0;
         int maxdis=0;
-        // for(int i=0;i<len1;i++){
-                while(i<len1 && j<len2 ){
-                    if(nums1[i]<=nums2[j] ){
+        for( i=0;i<len1;i++){
+                
+                    while( i<len1 && j<len2 && nums1[i]<=nums2[j] ){
                 
                     maxdis=Math.max(maxdis,j-i);
                     j++;
-                    }
-                  else{
-                    i++;
-                  }
+                   
                     
-                } return  maxdis;
+                }
+         } return  maxdis;
                  
     }
 }
