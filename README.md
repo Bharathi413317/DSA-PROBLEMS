@@ -27,6 +27,7 @@
 | [1254-number-of-closed-islands](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2171-removing-minimum-number-of-magic-beans) |
@@ -266,6 +267,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1631-path-with-minimum-effort](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Stack
@@ -333,6 +335,7 @@
 | [0011-container-with-most-water](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [4026-maximum-gap-between-stations](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4026-maximum-gap-between-stations) |
 ## Greedy
 |  |
