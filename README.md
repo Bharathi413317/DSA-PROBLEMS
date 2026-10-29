@@ -153,6 +153,7 @@
 | [2942-find-words-containing-character](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3498-reverse-degree-of-a-string) |
+| [3983-subsequence-after-one-replacement](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3983-subsequence-after-one-replacement) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 | [4026-maximum-gap-between-stations](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4026-maximum-gap-between-stations) |
 ## Depth-First Search
@@ -336,6 +337,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3983-subsequence-after-one-replacement](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3983-subsequence-after-one-replacement) |
 | [4026-maximum-gap-between-stations](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/4026-maximum-gap-between-stations) |
 ## Greedy
 |  |
