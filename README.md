@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0011-container-with-most-water) |
+| [0063-unique-paths-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0130-surrounded-regions) |
@@ -309,6 +310,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
+| [0063-unique-paths-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0095-unique-binary-search-trees-ii) |
@@ -397,6 +399,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
