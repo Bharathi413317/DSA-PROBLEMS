@@ -45,6 +45,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -323,6 +324,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3665-twisted-mirror-path-count](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3665-twisted-mirror-path-count) |
 ## Enumeration
 |  |
 | ------- |
@@ -413,6 +415,7 @@
 | [1631-path-with-minimum-effort](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3665-twisted-mirror-path-count) |
 ## Backtracking
 |  |
 | ------- |
