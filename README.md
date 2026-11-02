@@ -16,6 +16,7 @@
 | [0200-number-of-islands](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0542-01-matrix](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0542-01-matrix) |
 | [0654-maximum-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0654-maximum-binary-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
@@ -288,6 +289,7 @@
 | [0070-climbing-stairs](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0096-unique-binary-search-trees) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
 | [2409-count-days-spent-together](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -463,6 +465,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2333-minimum-sum-of-squared-difference) |
