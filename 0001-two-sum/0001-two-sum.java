@@ -15,5 +15,6 @@ class Solution {
         }
         return arr; 
     }
+//brute force
 }
 }
