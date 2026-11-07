@@ -14,6 +14,7 @@
 | [0152-maximum-product-subarray](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0417-pacific-atlantic-water-flow) |
@@ -379,6 +380,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
