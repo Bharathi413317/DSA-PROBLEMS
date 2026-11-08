@@ -17,6 +17,7 @@
 | [0238-product-of-array-except-self](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -70,6 +71,7 @@
 | [0013-roman-to-integer](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0127-word-ladder) |
+| [0347-top-k-frequent-elements](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -86,6 +88,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0654-maximum-binary-tree) |
 ## Tree
 |  |
@@ -468,6 +471,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [3960-frequency-balance-subarray](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3960-frequency-balance-subarray) |
 ## Graph Coloring
 |  |
@@ -480,6 +484,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -514,6 +519,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -561,4 +567,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0300-longest-increasing-subsequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
