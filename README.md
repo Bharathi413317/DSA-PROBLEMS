@@ -55,6 +55,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -350,6 +351,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3665-twisted-mirror-path-count](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3693-climbing-stairs-ii) |
 ## Enumeration
 |  |
 | ------- |
