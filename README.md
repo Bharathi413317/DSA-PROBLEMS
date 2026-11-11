@@ -158,6 +158,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0301-remove-invalid-parentheses) |
+| [0516-longest-palindromic-subsequence](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0856-score-of-parentheses) |
@@ -343,6 +344,7 @@
 | [0322-coin-change](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0354-russian-doll-envelopes) |
 | [0509-fibonacci-number](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0647-palindromic-substrings) |
