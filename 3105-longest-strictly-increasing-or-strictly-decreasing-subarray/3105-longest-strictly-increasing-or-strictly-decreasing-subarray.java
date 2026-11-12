@@ -5,20 +5,21 @@ class Solution {
             int inc=1;
             int dec=1;
             for(int j=i+1;j<nums.length;j++){
-                if(nums[j]>nums[j-1] && inc==j-i){
+                if(nums[j-1]<nums[j] && inc==j-i){
                     inc++;
                 }else{
                     break;
                 }
             }for(int j=i+1;j<nums.length;j++){
                 if(nums[j]<nums[j-1] && dec==j-i){
-                        dec++;
+                    dec++;
                 }else{
                     break;
                 }
-             } max=Math.max(max,Math.max(inc,dec));
-            
-           
-        }return max;
+            }
+            max=Math.max(max,Math.max(inc,dec));
+        }
+        return max;
+        
     }
 }
