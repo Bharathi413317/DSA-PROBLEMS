@@ -165,6 +165,7 @@
 | [0856-score-of-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1143-longest-common-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2409-count-days-spent-together](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2409-count-days-spent-together) |
@@ -352,6 +353,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1143-longest-common-subsequence) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3665-twisted-mirror-path-count](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3693-climbing-stairs-ii) |
@@ -588,4 +590,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
