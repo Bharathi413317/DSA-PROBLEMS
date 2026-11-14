@@ -155,6 +155,7 @@
 | [0020-valid-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -338,6 +339,7 @@
 | [0063-unique-paths-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0152-maximum-product-subarray) |
