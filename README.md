@@ -152,6 +152,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
@@ -328,6 +329,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
@@ -340,6 +342,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0044-wildcard-matching) |
