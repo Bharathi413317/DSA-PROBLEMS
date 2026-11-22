@@ -178,6 +178,7 @@
 | [1143-longest-common-subsequence](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1143-longest-common-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
