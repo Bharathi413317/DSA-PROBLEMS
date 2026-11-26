@@ -31,6 +31,7 @@
 | [0542-01-matrix](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0542-01-matrix) |
 | [0654-maximum-binary-tree](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0654-maximum-binary-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0881-boats-to-save-people) |
@@ -386,6 +387,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1143-longest-common-subsequence) |
@@ -421,6 +423,7 @@
 | [0044-wildcard-matching](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0881-boats-to-save-people](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
