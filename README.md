@@ -10,6 +10,7 @@
 | [0063-unique-paths-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -371,6 +372,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bharathi413317/DSA-PROBLEMS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
